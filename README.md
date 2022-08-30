@@ -13,14 +13,7 @@ I'm passionate about Cryptocurrency, Decentralised Finance and Deep Learning.
 ### **Databases & etc.**
 ![My Platforms](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,nginx,prisma,figma,githubactions,grafana,ps,tensorflow,wordpress&theme=dark)
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=jontstaz&theme=dark&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api?username=jontstaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jontstaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br/>
-
-## 📊 Development Metrics
+## ⌛ Development Metrics
 <!--START_SECTION:waka-->
 
 ```text
@@ -35,6 +28,12 @@ Text         26 mins         >------------------------   02.15 %
 ```
 
 <!--END_SECTION:waka-->
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=jontstaz&theme=dark&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api?username=jontstaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jontstaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## DevCard
 <a href="https://app.daily.dev/jontstaz"><img src="https://github.com/jontstaz/jontstaz/blob/main/devcard.svg" width="400" alt="Jonte's Dev Card"/></a>
