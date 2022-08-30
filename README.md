@@ -15,6 +15,20 @@ I'm passionate about Cryptocurrency, Decentralised Finance and Deep Learning.
 
 ## 📊 Development Metrics
 <!--START_SECTION:waka-->
+
+```text
+From: 29 May 2022 - To: 30 August 2022
+
+Total Time: 20 hrs 25 mins
+
+Python       14 hrs 53 mins  >>>>>>>>>>>>>>>>>>-------   72.91 %
+INI          1 hr 30 mins    >>-----------------------   07.39 %
+Markdown     1 hr            >------------------------   04.96 %
+Bash         50 mins         >------------------------   04.09 %
+TOML         37 mins         >------------------------   03.08 %
+Text         26 mins         >------------------------   02.15 %
+```
+
 <!--END_SECTION:waka-->
 ---
 
