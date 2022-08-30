@@ -1,21 +1,15 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jontstaz&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
-
-
 # 💫 About Me:
 I'm passionate about Cryptocurrency, Decentralised Finance and Deep Learning.
 
 # 💻 Tech Stack:
-
 ## Languages
 ![My Languages](https://skillicons.dev/icons?i=python,javascript,php,bash,powershell&theme=dark)
-
 ## Frameworks
 ![My Frameworks](https://skillicons.dev/icons?i=django,flask,laravel,nodejs,vue,bootstrap&theme=dark)
-
 ## Platforms
 ![My Platforms](https://skillicons.dev/icons?i=aws,gcp,docker,heroku,raspberrypi,linux&theme=dark)
-
 ## Databases & etc.
 ![My Platforms](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,nginx,prisma,figma,githubactions,grafana,ps,tensorflow,wordpress&theme=dark)
 
@@ -27,7 +21,6 @@ I'm passionate about Cryptocurrency, Decentralised Finance and Deep Learning.
 <br/>
 
 ## 📊 Development Metrics
-<br/>
 <!--START_SECTION:waka-->
 
 ```text
@@ -42,8 +35,6 @@ Text         26 mins         >------------------------   02.15 %
 ```
 
 <!--END_SECTION:waka-->
-
----
 
 ## DevCard
 <a href="https://app.daily.dev/jontstaz"><img src="https://github.com/jontstaz/jontstaz/blob/main/devcard.svg" width="400" alt="Jonte's Dev Card"/></a>
