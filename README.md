@@ -4,13 +4,13 @@
 I'm passionate about Cryptocurrency, Decentralised Finance and Deep Learning.
 
 # 💻 Tech Stack:
-## Languages
+### **Languages**
 ![My Languages](https://skillicons.dev/icons?i=python,javascript,php,bash,powershell&theme=dark)
-## Frameworks
+### **Frameworks**
 ![My Frameworks](https://skillicons.dev/icons?i=django,flask,laravel,nodejs,vue,bootstrap&theme=dark)
-## Platforms
+### **Platforms**
 ![My Platforms](https://skillicons.dev/icons?i=aws,gcp,docker,heroku,raspberrypi,linux&theme=dark)
-## Databases & etc.
+### **Databases & etc.**
 ![My Platforms](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,nginx,prisma,figma,githubactions,grafana,ps,tensorflow,wordpress&theme=dark)
 
 
