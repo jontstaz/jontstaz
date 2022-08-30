@@ -16,6 +16,7 @@ I'm passionate about Cryptocurrency, Decentralised Finance and Deep Learning.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jontstaz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## DevCard
 <a href="https://app.daily.dev/jontstaz"><img src="https://github.com/jontstaz/jontstaz/blob/main/devcard.svg" width="400" alt="Jonte's Dev Card"/></a>
 
 ---
