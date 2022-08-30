@@ -35,6 +35,9 @@ Text         26 mins         >------------------------   02.15 %
 ![](https://github-readme-stats.vercel.app/api?username=jontstaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jontstaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## LeetCode
+[![Leetcode Stats](https://leetcard.jacoblin.cool/jontstaz?theme=nord&extension=activity)](https://leetcode.com/jontstaz)
+
 ## DevCard
 <a href="https://app.daily.dev/jontstaz"><img src="https://github.com/jontstaz/jontstaz/blob/main/devcard.svg" width="400" alt="Jonte's Dev Card"/></a>
 
