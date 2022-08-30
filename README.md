@@ -17,8 +17,6 @@ I'm passionate about Cryptocurrency, Decentralised Finance and Deep Learning.
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 May 2022 - To: 30 August 2022
-
 Total Time: 20 hrs 25 mins
 
 Python       14 hrs 53 mins  >>>>>>>>>>>>>>>>>>-------   72.91 %
