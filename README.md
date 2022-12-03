@@ -17,14 +17,13 @@ I'm passionate about Cryptocurrency, Decentralised Finance and Deep Learning.
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 57 hrs 31 mins
+Total Time: 60 hrs 2 mins
 
-Python        35 hrs 52 mins  >>>>>>>>>>>>>>>>---------   62.36 %
-JavaScript    4 hrs 29 mins   >>-----------------------   07.81 %
-PHP           2 hrs 35 mins   >------------------------   04.51 %
-HTML          2 hrs 29 mins   >------------------------   04.33 %
-INI           2 hrs 3 mins    >------------------------   03.59 %
-Markdown      2 hrs 2 mins    >------------------------   03.54 %
+Python        36 hrs 3 mins   >>>>>>>>>>>>>>>----------   60.06 %
+JavaScript    5 hrs 49 mins   >>-----------------------   09.71 %
+PHP           2 hrs 35 mins   >------------------------   04.32 %
+HTML          2 hrs 29 mins   >------------------------   04.15 %
+Other         2 hrs 21 mins   >------------------------   03.94 %
 ```
 
 <!--END_SECTION:waka-->
