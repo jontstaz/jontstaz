@@ -19,7 +19,7 @@ I'm passionate about Cryptocurrency, Decentralised Finance and Deep Learning.
 ```text
 Total Time: 61 hrs
 
-Python        36 hrs 20 mins  >>>>>>>>>>>>>>>----------   59.57 %
+Python        36 hrs 20 mins  >>>>>>>>>>>>>>>----------   59.56 %
 JavaScript    5 hrs 49 mins   >>-----------------------   09.56 %
 PHP           2 hrs 57 mins   >------------------------   04.85 %
 HTML          2 hrs 29 mins   >------------------------   04.08 %
