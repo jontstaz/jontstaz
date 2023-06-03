@@ -16,7 +16,7 @@ I'm passionate about Cryptocurrency, Decentralised Finance and Deep Learning.
 ## ⌛ Development Metrics
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Total Time: 177 hrs 53 mins
 
 Python           82 hrs 2 mins   >>>>>>>>>>>>-------------   46.12 %
