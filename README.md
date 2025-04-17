@@ -17,11 +17,11 @@ I'm passionate about Cryptocurrency, Decentralised Finance and Deep Learning.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 764 hrs 29 mins
+Total Time: 764 hrs 57 mins
 
-Python           264 hrs 55 mins >>>>>>>>>----------------   34.65 %
-TypeScript       137 hrs 53 mins >>>>>--------------------   18.04 %
-JavaScript       103 hrs 2 mins  >>>----------------------   13.48 %
+Python           264 hrs 55 mins >>>>>>>>>----------------   34.63 %
+TypeScript       138 hrs 16 mins >>>>>--------------------   18.08 %
+JavaScript       103 hrs 2 mins  >>>----------------------   13.47 %
 Bash             34 hrs 25 mins  >------------------------   04.50 %
 JSON             27 hrs 18 mins  >------------------------   03.57 %
 ```
