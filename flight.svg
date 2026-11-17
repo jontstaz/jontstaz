@@ -43,8 +43,8 @@
 <text x="500" y="72" text-anchor="end" font-size="9" fill="#6b829e">peak 85</text>
 <g class="fadeup" style="--i:0.15s"><text x="560" y="84" font-size="9" letter-spacing="1.5" fill="#6b829e">CURRENT RUN</text><text x="560" y="101" font-size="16" font-weight="700" fill="#4ade80">2 DAYS</text></g>
 <g class="fadeup" style="--i:0.25s"><text x="560" y="120" font-size="9" letter-spacing="1.5" fill="#6b829e">BEST RUN</text><text x="560" y="137" font-size="16" font-weight="700" fill="#86efac">7 DAYS</text></g>
-<g class="fadeup" style="--i:0.35s"><text x="560" y="156" font-size="9" letter-spacing="1.5" fill="#6b829e">ACTIVE DAYS</text><text x="560" y="173" font-size="16" font-weight="700" fill="#22d3ee">128</text></g>
-<g class="fadeup" style="--i:0.45s"><text x="560" y="192" font-size="9" letter-spacing="1.5" fill="#6b829e">PEAK DAY</text><text x="560" y="209" font-size="16" font-weight="700" fill="#fbbf24">110</text></g>
+<g class="fadeup" style="--i:0.35s"><text x="560" y="156" font-size="9" letter-spacing="1.5" fill="#6b829e">ACTIVE DAYS</text><text x="560" y="173" font-size="16" font-weight="700" fill="#22d3ee">127</text></g>
+<g class="fadeup" style="--i:0.45s"><text x="560" y="192" font-size="9" letter-spacing="1.5" fill="#6b829e">PEAK DAY</text><text x="560" y="209" font-size="16" font-weight="700" fill="#fbbf24">109</text></g>
 <g class="fadeup" style="--i:0.6s" transform="translate(760,118)"><circle r="34" fill="none" stroke="#22d3ee" stroke-opacity="0.2"/><circle r="22" fill="none" stroke="#22d3ee" stroke-opacity="0.14"/><circle r="10" fill="none" stroke="#22d3ee" stroke-opacity="0.1"/><g class="beam"><path d="M0 0 L34 0" stroke="#22d3ee" stroke-width="1.5" opacity="0.7"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4s" repeatCount="indefinite"/></path></g><circle r="2.2" fill="#22d3ee" class="core"/></g>
 <line x1="30" y1="218" x2="810" y2="218" stroke="#1c2b3f"/>
 <text x="30" y="240" font-size="10" fill="#6b829e">heaviest month · 2026-03 with 299 contributions</text>

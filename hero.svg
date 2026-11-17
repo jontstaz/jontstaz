@@ -63,7 +63,7 @@
 <g class="d" style="--i:0.15s"><rect x="98.5" y="52.0" width="11.5" height="11.5" rx="2.5" fill="#131c2b" opacity="0.9"></rect></g>
 <g class="d" style="--i:0.15s"><rect x="98.5" y="66.9" width="11.5" height="11.5" rx="2.5" fill="#131c2b" opacity="0.9"></rect></g>
 <g class="d" style="--i:0.15s"><rect x="98.5" y="81.8" width="11.5" height="11.5" rx="2.5" fill="#14532d" opacity="1"></rect></g>
-<g class="d" style="--i:0.15s"><rect x="98.5" y="96.7" width="11.5" height="11.5" rx="2.5" fill="#14532d" opacity="1"></rect></g>
+<g class="d" style="--i:0.15s"><rect x="98.5" y="96.7" width="11.5" height="11.5" rx="2.5" fill="#131c2b" opacity="0.9"></rect></g>
 <g class="d" style="--i:0.15s"><rect x="98.5" y="111.6" width="11.5" height="11.5" rx="2.5" fill="#14532d" opacity="1"></rect></g>
 <g class="d" style="--i:0.15s"><rect x="98.5" y="126.5" width="11.5" height="11.5" rx="2.5" fill="#14532d" opacity="1"></rect></g>
 <g class="d" style="--i:0.15s"><rect x="98.5" y="141.4" width="11.5" height="11.5" rx="2.5" fill="#131c2b" opacity="0.9"></rect></g>
@@ -123,7 +123,7 @@
 <g class="d" style="--i:0.39s"><rect x="217.7" y="111.6" width="11.5" height="11.5" rx="2.5" fill="#131c2b" opacity="0.9"></rect></g>
 <g class="d" style="--i:0.39s"><rect x="217.7" y="126.5" width="11.5" height="11.5" rx="2.5" fill="#131c2b" opacity="0.9"></rect></g>
 <g class="d" style="--i:0.39s"><rect x="217.7" y="141.4" width="11.5" height="11.5" rx="2.5" fill="#14532d" opacity="1"></rect></g>
-<g class="d" style="--i:0.42s"><rect x="232.6" y="52.0" width="11.5" height="11.5" rx="2.5" fill="#14532d" opacity="1"></rect></g>
+<g class="d" style="--i:0.42s"><rect x="232.6" y="52.0" width="11.5" height="11.5" rx="2.5" fill="#131c2b" opacity="0.9"></rect></g>
 <g class="d" style="--i:0.42s"><rect x="232.6" y="66.9" width="11.5" height="11.5" rx="2.5" fill="#14532d" opacity="1"></rect></g>
 <g class="d" style="--i:0.42s"><rect x="232.6" y="81.8" width="11.5" height="11.5" rx="2.5" fill="#14532d" opacity="1"></rect></g>
 <g class="d" style="--i:0.42s"><rect x="232.6" y="96.7" width="11.5" height="11.5" rx="2.5" fill="#14532d" opacity="1"></rect></g>
@@ -156,7 +156,7 @@
 <g class="d" style="--i:0.54s"><rect x="292.2" y="81.8" width="11.5" height="11.5" rx="2.5" fill="#14532d" opacity="1"></rect></g>
 <g class="d" style="--i:0.54s"><rect x="292.2" y="96.7" width="11.5" height="11.5" rx="2.5" fill="#14532d" opacity="1"></rect></g>
 <g class="d" style="--i:0.54s"><rect x="292.2" y="111.6" width="11.5" height="11.5" rx="2.5" fill="#14532d" opacity="1"></rect></g>
-<g class="d" style="--i:0.54s"><rect x="292.2" y="126.5" width="11.5" height="11.5" rx="2.5" fill="#131c2b" opacity="0.9"></rect></g>
+<g class="d" style="--i:0.54s"><rect x="292.2" y="126.5" width="11.5" height="11.5" rx="2.5" fill="#14532d" opacity="1"></rect></g>
 <g class="d" style="--i:0.54s"><rect x="292.2" y="141.4" width="11.5" height="11.5" rx="2.5" fill="#131c2b" opacity="0.9"></rect></g>
 <g class="d" style="--i:0.57s"><rect x="307.1" y="52.0" width="11.5" height="11.5" rx="2.5" fill="#14532d" opacity="1"></rect></g>
 <g class="d" style="--i:0.57s"><rect x="307.1" y="66.9" width="11.5" height="11.5" rx="2.5" fill="#14532d" opacity="1"></rect></g>
@@ -435,5 +435,5 @@
 <text x="339.59999999999997" y="326.8" font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="0.5" fill="#f1e05a">JAVASCRIPT 7%</text>
 </g></g>
 <text x="24" y="382" font-size="10" fill="#6b829e">every lit cell is a real commit day · the busier the day, the brighter it burns</text>
-<text x="816" y="382" text-anchor="end" font-size="10" fill="#8ba3bd">· 128 active days · 110 peak ·</text>
+<text x="816" y="382" text-anchor="end" font-size="10" fill="#8ba3bd">· 127 active days · 109 peak ·</text>
 </svg>
