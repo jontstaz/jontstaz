@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="840" height="368" viewBox="0 0 840 368" font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace">
+<style>
+      .fadeup{animation:fu .6s cubic-bezier(.2,.7,.3,1) both;animation-delay:var(--i)}
+      @keyframes fu{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+      .hovr{transition:opacity .2s}
+      .star{animation:st 3.5s ease-in-out infinite}
+      @keyframes st{0%,100%{opacity:.75}50%{opacity:1}}
+    </style>
+<rect width="840" height="368" rx="14" fill="#0a0e14"/>
+<rect x="1.5" y="1.5" width="837" height="365" rx="14" fill="#0d1420" stroke="#1c2b3f" stroke-width="1"/>
+<path d="M 3.0 27.5 V 7.8999999999999995 Q 3.0 3.0 7.8999999999999995 3.0 H 27.5" fill="none" stroke="#22d3ee" stroke-width="1.5" opacity="0.9"/>
+<rect x="23.5" y="25.0" width="3.5" height="13" fill="#22d3ee" opacity="0.85"/>
+<text x="32.5" y="31.5" font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="11.5" font-weight="700" letter-spacing="2.2" fill="#22d3ee">MISSIONS</text>
+<text x="110.5" y="31.5" font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="10.5" letter-spacing="1.5" fill="#6b829e">BY STARS</text>
+<text x="818.5" y="31.5" text-anchor="end" font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="10.5" letter-spacing="1.8" fill="#6b829e">217 TOTAL</text>
+<g class="fadeup" style="--i:0.00s">
+<a href="https://github.com/jontstaz/Automated-BSC-Buy-Sell-Token-Sniper" xlink:href="https://github.com/jontstaz/Automated-BSC-Buy-Sell-Token-Sniper" target="_blank">
+<rect x="14" y="64" width="812" height="38" rx="8" fill="#0d1420" opacity="0.55"/>
+<text x="30" y="90.5" font-size="13" font-weight="700" fill="#22d3ee" opacity="0.85">01</text>
+<circle cx="60" cy="85.0" r="4" fill="#3572A5"/>
+<text x="74" y="87.0" font-size="13" font-weight="600" fill="#e8f1fb">Automated-BSC-Buy-Sell-Token-Sniper</text>
+<text x="74" y="102.0" font-size="10.5" fill="#6b829e">Automatically buys tokens on the Binance Smart Chain when liquidity is ad…</text>
+<text x="810" y="87.5" text-anchor="end" font-size="12" font-weight="700" fill="#fbbf24" class="star">★ 89</text>
+<text x="810" y="102.0" text-anchor="end" font-size="9.5" fill="#6b829e">PUSH 2022</text>
+</a>
+</g>
+<g class="fadeup" style="--i:0.05s">
+<a href="https://github.com/jontstaz/AI-Docker-Compose-Generator" xlink:href="https://github.com/jontstaz/AI-Docker-Compose-Generator" target="_blank">
+<rect x="14" y="108" width="812" height="38" rx="8" fill="#0d1420" opacity="0.55"/>
+<text x="30" y="134.5" font-size="13" font-weight="700" fill="#22d3ee" opacity="0.85">02</text>
+<circle cx="60" cy="129.0" r="4" fill="#3178c6"/>
+<text x="74" y="131.0" font-size="13" font-weight="600" fill="#e8f1fb">AI-Docker-Compose-Generator</text>
+<text x="74" y="146.0" font-size="10.5" fill="#6b829e">Simply paste your Github Repo link and this app will generate a relevant…</text>
+<text x="810" y="131.5" text-anchor="end" font-size="12" font-weight="700" fill="#fbbf24" class="star">★ 72</text>
+<text x="810" y="146.0" text-anchor="end" font-size="9.5" fill="#6b829e">PUSH 2025</text>
+</a>
+</g>
+<g class="fadeup" style="--i:0.10s">
+<a href="https://github.com/jontstaz/BSC-DEX-Prediction-Bot" xlink:href="https://github.com/jontstaz/BSC-DEX-Prediction-Bot" target="_blank">
+<rect x="14" y="152" width="812" height="38" rx="8" fill="#0d1420" opacity="0.55"/>
+<text x="30" y="178.5" font-size="13" font-weight="700" fill="#22d3ee" opacity="0.85">03</text>
+<circle cx="60" cy="173.0" r="4" fill="#3178c6"/>
+<text x="74" y="175.0" font-size="13" font-weight="600" fill="#e8f1fb">BSC-DEX-Prediction-Bot</text>
+<text x="74" y="190.0" font-size="10.5" fill="#6b829e">A smart bot which uses Technical Analysis and applies it to the Predictio…</text>
+<text x="810" y="175.5" text-anchor="end" font-size="12" font-weight="700" fill="#fbbf24" class="star">★ 29</text>
+<text x="810" y="190.0" text-anchor="end" font-size="9.5" fill="#6b829e">PUSH 2022</text>
+</a>
+</g>
+<g class="fadeup" style="--i:0.15s">
+<a href="https://github.com/jontstaz/obsidian-linkding-importer" xlink:href="https://github.com/jontstaz/obsidian-linkding-importer" target="_blank">
+<rect x="14" y="196" width="812" height="38" rx="8" fill="#0d1420" opacity="0.55"/>
+<text x="30" y="222.5" font-size="13" font-weight="700" fill="#22d3ee" opacity="0.85">04</text>
+<circle cx="60" cy="217.0" r="4" fill="#3178c6"/>
+<text x="74" y="219.0" font-size="13" font-weight="600" fill="#e8f1fb">obsidian-linkding-importer</text>
+<text x="74" y="234.0" font-size="10.5" fill="#6b829e">Imports your bookmarks from Linkding and saves them into a specified file…</text>
+<text x="810" y="219.5" text-anchor="end" font-size="12" font-weight="700" fill="#fbbf24" class="star">★ 14</text>
+<text x="810" y="234.0" text-anchor="end" font-size="9.5" fill="#6b829e">PUSH 2024</text>
+</a>
+</g>
+<g class="fadeup" style="--i:0.20s">
+<a href="https://github.com/jontstaz/pi-kiwifs-extension" xlink:href="https://github.com/jontstaz/pi-kiwifs-extension" target="_blank">
+<rect x="14" y="240" width="812" height="38" rx="8" fill="#0d1420" opacity="0.55"/>
+<text x="30" y="266.5" font-size="13" font-weight="700" fill="#22d3ee" opacity="0.85">05</text>
+<circle cx="60" cy="261.0" r="4" fill="#3178c6"/>
+<text x="74" y="263.0" font-size="13" font-weight="600" fill="#e8f1fb">pi-kiwifs-extension</text>
+<text x="74" y="278.0" font-size="10.5" fill="#6b829e">Pi Coding Agent Extension for Kiwifs</text>
+<text x="810" y="263.5" text-anchor="end" font-size="12" font-weight="700" fill="#fbbf24" class="star">★ 2</text>
+<text x="810" y="278.0" text-anchor="end" font-size="9.5" fill="#6b829e">PUSH 2026</text>
+</a>
+</g>
+<g class="fadeup" style="--i:0.25s">
+<a href="https://github.com/jontstaz/NormalNvim" xlink:href="https://github.com/jontstaz/NormalNvim" target="_blank">
+<rect x="14" y="284" width="812" height="38" rx="8" fill="#0d1420" opacity="0.55"/>
+<text x="30" y="310.5" font-size="13" font-weight="700" fill="#22d3ee" opacity="0.85">06</text>
+<circle cx="60" cy="305.0" r="4" fill="#000080"/>
+<text x="74" y="307.0" font-size="13" font-weight="600" fill="#e8f1fb">NormalNvim</text>
+<text x="74" y="322.0" font-size="10.5" fill="#6b829e">Custom NormalNvim Config</text>
+<text x="810" y="307.5" text-anchor="end" font-size="12" font-weight="700" fill="#fbbf24" class="star">★ 2</text>
+<text x="810" y="322.0" text-anchor="end" font-size="9.5" fill="#6b829e">PUSH 2024</text>
+</a>
+</g>
+</svg>

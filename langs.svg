@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="840" height="252" viewBox="0 0 840 252" font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace">
+<style>
+      .fadeup{animation:fu .6s cubic-bezier(.2,.7,.3,1) both;animation-delay:var(--i)}
+      @keyframes fu{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+      .bar{stroke-dasharray:var(--w);stroke-dashoffset:var(--w);animation:bw 1s cubic-bezier(.25,.8,.3,1) both;animation-delay:var(--i)}
+      @keyframes bw{to{stroke-dashoffset:0}}
+      .fillin{transform:scaleX(0);transform-origin:left;animation:fi .9s cubic-bezier(.25,.8,.3,1) both;animation-delay:var(--i)}
+      @keyframes fi{to{transform:scaleX(1)}}
+    </style>
+<rect width="840" height="252" rx="14" fill="#0a0e14"/>
+<rect x="1.5" y="1.5" width="837" height="249" rx="14" fill="#0d1420" stroke="#1c2b3f" stroke-width="1"/>
+<path d="M 3.0 27.5 V 7.8999999999999995 Q 3.0 3.0 7.8999999999999995 3.0 H 27.5" fill="none" stroke="#22d3ee" stroke-width="1.5" opacity="0.9"/>
+<rect x="23.5" y="25.0" width="3.5" height="13" fill="#22d3ee" opacity="0.85"/>
+<text x="32.5" y="31.5" font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="11.5" font-weight="700" letter-spacing="2.2" fill="#22d3ee">POWER-UPS</text>
+<text x="120.25" y="31.5" font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="10.5" letter-spacing="1.5" fill="#6b829e">LANGUAGE MIX</text>
+<text x="818.5" y="31.5" text-anchor="end" font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="10.5" letter-spacing="1.8" fill="#6b829e">1.5MB SCANNED</text>
+<g class="fadeup" style="--i:0.00s">
+<circle cx="36" cy="74" r="4" fill="#3178c6"/>
+<text x="50" y="78" font-size="12.5" font-weight="600" fill="#e8f1fb">TypeScript</text>
+<rect x="180" y="68" width="580" height="9" rx="4.5" fill="#131c2b"/>
+<rect x="180" y="68" width="275.8" height="9" rx="4.5" fill="#3178c6" opacity="0.95"/>
+<rect x="180" y="68" width="275.8" height="9" rx="4.5" fill="url(#lg sheen)" opacity="0"/>
+<rect x="180" y="68" width="275.8" height="9" rx="4.5" fill="url(#sheen)"/><g opacity="0.55"><rect x="180" y="68" width="275.8" height="9" rx="4.5" fill="none" stroke="#3178c6" stroke-opacity="0.5"/></g>
+<text x="774" y="77" font-size="12" font-weight="700" fill="#3178c6" text-anchor="start">48%</text>
+</g>
+<g class="fadeup" style="--i:0.08s">
+<circle cx="36" cy="107" r="4" fill="#3572A5"/>
+<text x="50" y="111" font-size="12.5" font-weight="600" fill="#e8f1fb">Python</text>
+<rect x="180" y="101" width="580" height="9" rx="4.5" fill="#131c2b"/>
+<rect x="180" y="101" width="99.6" height="9" rx="4.5" fill="#3572A5" opacity="0.95"/>
+<rect x="180" y="101" width="99.6" height="9" rx="4.5" fill="url(#lg sheen)" opacity="0"/>
+<rect x="180" y="101" width="99.6" height="9" rx="4.5" fill="url(#sheen)"/><g opacity="0.55"><rect x="180" y="101" width="99.6" height="9" rx="4.5" fill="none" stroke="#3572A5" stroke-opacity="0.5"/></g>
+<text x="774" y="110" font-size="12" font-weight="700" fill="#3572A5" text-anchor="start">17%</text>
+</g>
+<g class="fadeup" style="--i:0.16s">
+<circle cx="36" cy="140" r="4" fill="#7c3aed"/>
+<text x="50" y="144" font-size="12.5" font-weight="600" fill="#e8f1fb">Lua</text>
+<rect x="180" y="134" width="580" height="9" rx="4.5" fill="#131c2b"/>
+<rect x="180" y="134" width="89.2" height="9" rx="4.5" fill="#7c3aed" opacity="0.95"/>
+<rect x="180" y="134" width="89.2" height="9" rx="4.5" fill="url(#lg sheen)" opacity="0"/>
+<rect x="180" y="134" width="89.2" height="9" rx="4.5" fill="url(#sheen)"/><g opacity="0.55"><rect x="180" y="134" width="89.2" height="9" rx="4.5" fill="none" stroke="#7c3aed" stroke-opacity="0.5"/></g>
+<text x="774" y="143" font-size="12" font-weight="700" fill="#7c3aed" text-anchor="start">15%</text>
+</g>
+<g class="fadeup" style="--i:0.24s">
+<circle cx="36" cy="173" r="4" fill="#f1e05a"/>
+<text x="50" y="177" font-size="12.5" font-weight="600" fill="#e8f1fb">JavaScript</text>
+<rect x="180" y="167" width="580" height="9" rx="4.5" fill="#131c2b"/>
+<rect x="180" y="167" width="41.4" height="9" rx="4.5" fill="#f1e05a" opacity="0.95"/>
+<rect x="180" y="167" width="41.4" height="9" rx="4.5" fill="url(#lg sheen)" opacity="0"/>
+<rect x="180" y="167" width="41.4" height="9" rx="4.5" fill="url(#sheen)"/><g opacity="0.55"><rect x="180" y="167" width="41.4" height="9" rx="4.5" fill="none" stroke="#f1e05a" stroke-opacity="0.5"/></g>
+<text x="774" y="176" font-size="12" font-weight="700" fill="#f1e05a" text-anchor="start">7%</text>
+</g>
+<g class="fadeup" style="--i:0.32s">
+<circle cx="36" cy="206" r="4" fill="#555555"/>
+<text x="50" y="210" font-size="12.5" font-weight="600" fill="#e8f1fb">C</text>
+<rect x="180" y="200" width="580" height="9" rx="4.5" fill="#131c2b"/>
+<rect x="180" y="200" width="29.0" height="9" rx="4.5" fill="#555555" opacity="0.95"/>
+<rect x="180" y="200" width="29.0" height="9" rx="4.5" fill="url(#lg sheen)" opacity="0"/>
+<rect x="180" y="200" width="29.0" height="9" rx="4.5" fill="url(#sheen)"/><g opacity="0.55"><rect x="180" y="200" width="29.0" height="9" rx="4.5" fill="none" stroke="#555555" stroke-opacity="0.5"/></g>
+<text x="774" y="209" font-size="12" font-weight="700" fill="#555555" text-anchor="start">5%</text>
+</g>
+<text x="30" y="247" font-size="10" fill="#6b829e">+ Less 3%  ·  HTML 2%  ·  CSS 2%</text>
+<defs><linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff" stop-opacity="0.25"/><stop offset="0.5" stop-color="#ffffff" stop-opacity="0.05"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient></defs>
+</svg>
