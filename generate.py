@@ -137,10 +137,10 @@ def fetch_gh_data():
             "weeks": weeks, "repos": repos}
 
 
-def pixelate_avatar(url, size=48, box=48):
-    """Download avatar and return a data URI of a downscaled pixel version.
-    48px keeps the retro chunky-pixel feel (3px blocks at 150px display)
-    while staying recognisable; raise `size` to 150 for a fully sharp avatar."""
+def pixelate_avatar(url, size=150, box=48):
+    """Download avatar and return a data URI of the portrait at display size.
+    150px matches the 1:1 display box, so it renders fully sharp.
+    Drop `size` back to ~48 for the chunky pixel-art look."""
     png, _ = urllib.request.urlretrieve(url)
     try:
         from PIL import Image
@@ -408,14 +408,12 @@ def build_pilot(data, stats):
     b64 = data.get("portrait_b64")
     if b64:
         p.append(f'<g class="fadeup" style="--i:0.15s"><image x="{portrait_x}" y="{portrait_y}" width="{ps}" height="{ps}" '
-                 f'xlink:href="{b64}" image-rendering="optimizeSpeed" /></g>')
-        # scanline overlay
+                 f'xlink:href="{b64}" preserveAspectRatio="xMidYMid slice" /></g>')
+        # subtle vignette frame (no scanlines — sharp portrait)
         p.append(f'<g class="fadeup" style="--i:0.2s">')
         p.append(f'<clipPath id="pc"><rect x="{portrait_x}" y="{portrait_y}" width="{ps}" height="{ps}" rx="10"/></clipPath>')
         p.append(f'<g clip-path="url(#pc)">')
         p.append(f'<rect x="{portrait_x}" y="{portrait_y}" width="{ps}" height="{ps}" fill="url(#ptint)" opacity="0"/>')
-        for yy in range(0, ps, 3):
-            p.append(f'<rect x="{portrait_x}" y="{portrait_y+yy}" width="{ps}" height="1.4" fill="{INK}" opacity="0.25"/>')
         p.append(f'<rect x="{portrait_x}" y="{portrait_y}" width="{ps}" height="{ps}" rx="10" fill="none" stroke="{CYAN}" stroke-opacity="0.5"/>')
         p.append(f'<rect x="{portrait_x-5}" y="{portrait_y-5}" width="{ps+10}" height="{ps+10}" rx="12" fill="none" '
                  f'stroke="{CYAN}" stroke-opacity="0.25" stroke-dasharray="3 6" class="ringspin" style="transform-origin:{portrait_x+ps/2}px {portrait_y+ps/2}px"/>')
