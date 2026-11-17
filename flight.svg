@@ -11,7 +11,7 @@
 <rect x="23.5" y="25.0" width="3.5" height="13" fill="#22d3ee" opacity="0.85"/>
 <text x="32.5" y="31.5" font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="11.5" font-weight="700" letter-spacing="2.2" fill="#22d3ee">FLIGHT LOG</text>
 <text x="130.0" y="31.5" font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="10.5" letter-spacing="1.5" fill="#6b829e">26 WEEKS</text>
-<text x="818.5" y="31.5" text-anchor="end" font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="10.5" letter-spacing="1.8" fill="#6b829e">SCORE 1,135</text>
+<text x="818.5" y="31.5" text-anchor="end" font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="10.5" letter-spacing="1.8" fill="#6b829e">SCORE 1,142</text>
 <g class="fadeup" style="--i:0.00s"><rect x="31.0" y="202.5" width="15.6" height="5.5" rx="2" fill="#166534" opacity="0.95"><animate attributeName="height" values="2.5;5.5" dur="0.7s" begin="0.00s" fill="freeze"/><animate attributeName="y" values="205.5;202.5" dur="0.7s" begin="0.00s" fill="freeze"/></rect></g>
 <g class="fadeup" style="--i:0.03s"><rect x="49.1" y="205.5" width="15.6" height="2.5" rx="2" fill="#131c2b" opacity="0.7"></rect></g>
 <g class="fadeup" style="--i:0.06s"><rect x="67.2" y="205.5" width="15.6" height="2.5" rx="2" fill="#166534" opacity="0.95"><animate attributeName="height" values="2.5;2.5" dur="0.7s" begin="0.08s" fill="freeze"/><animate attributeName="y" values="205.5;205.5" dur="0.7s" begin="0.08s" fill="freeze"/></rect></g>
@@ -37,7 +37,7 @@
 <g class="fadeup" style="--i:0.66s"><rect x="428.7" y="131.6" width="15.6" height="76.4" rx="2" fill="#22c55e" opacity="0.95"><animate attributeName="height" values="2.5;76.4" dur="0.7s" begin="0.88s" fill="freeze"/><animate attributeName="y" values="205.5;131.6" dur="0.7s" begin="0.88s" fill="freeze"/></rect></g>
 <g class="fadeup" style="--i:0.69s"><rect x="446.8" y="168.4" width="15.6" height="39.6" rx="2" fill="#22c55e" opacity="0.95"><animate attributeName="height" values="2.5;39.6" dur="0.7s" begin="0.92s" fill="freeze"/><animate attributeName="y" values="205.5;168.4" dur="0.7s" begin="0.92s" fill="freeze"/></rect></g>
 <g class="fadeup" style="--i:0.72s"><rect x="464.8" y="92.0" width="15.6" height="116.0" rx="2" fill="#86efac" opacity="0.95"><animate attributeName="height" values="2.5;116.0" dur="0.7s" begin="0.96s" fill="freeze"/><animate attributeName="y" values="205.5;92.0" dur="0.7s" begin="0.96s" fill="freeze"/></rect></g>
-<g class="fadeup" style="--i:0.75s"><rect x="482.9" y="172.5" width="15.6" height="35.5" rx="2" fill="#166534" opacity="0.95"><animate attributeName="height" values="2.5;35.5" dur="0.7s" begin="1.00s" fill="freeze"/><animate attributeName="y" values="205.5;172.5" dur="0.7s" begin="1.00s" fill="freeze"/></rect></g>
+<g class="fadeup" style="--i:0.75s"><rect x="482.9" y="163.0" width="15.6" height="45.0" rx="2" fill="#22c55e" opacity="0.95"><animate attributeName="height" values="2.5;45.0" dur="0.7s" begin="1.00s" fill="freeze"/><animate attributeName="y" values="205.5;163.0" dur="0.7s" begin="1.00s" fill="freeze"/></rect></g>
 <line x1="30" y1="208" x2="500" y2="208" stroke="#1c2b3f" stroke-width="1"/>
 <text x="30" y="72" font-size="9" fill="#6b829e" letter-spacing="1">COMMITS / WEEK</text>
 <text x="500" y="72" text-anchor="end" font-size="9" fill="#6b829e">peak 85</text>
