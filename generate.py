@@ -137,8 +137,10 @@ def fetch_gh_data():
             "weeks": weeks, "repos": repos}
 
 
-def pixelate_avatar(url, size=13, box=48):
-    """Download avatar and return (data URI, palette) of a downscaled pixel version."""
+def pixelate_avatar(url, size=48, box=48):
+    """Download avatar and return a data URI of a downscaled pixel version.
+    48px keeps the retro chunky-pixel feel (3px blocks at 150px display)
+    while staying recognisable; raise `size` to 150 for a fully sharp avatar."""
     png, _ = urllib.request.urlretrieve(url)
     try:
         from PIL import Image
