@@ -18,45 +18,45 @@
 <circle cx="36" cy="74" r="4" fill="#3178c6"/>
 <text x="50" y="78" font-size="12.5" font-weight="600" fill="#e8f1fb">TypeScript</text>
 <rect x="180" y="68" width="580" height="9" rx="4.5" fill="#131c2b"/>
-<rect x="180" y="68" width="275.8" height="9" rx="4.5" fill="#3178c6" opacity="0.95"/>
-<rect x="180" y="68" width="275.8" height="9" rx="4.5" fill="url(#lg sheen)" opacity="0"/>
-<rect x="180" y="68" width="275.8" height="9" rx="4.5" fill="url(#sheen)"/><g opacity="0.55"><rect x="180" y="68" width="275.8" height="9" rx="4.5" fill="none" stroke="#3178c6" stroke-opacity="0.5"/></g>
-<text x="774" y="77" font-size="12" font-weight="700" fill="#3178c6" text-anchor="start">48%</text>
+<rect x="180" y="68" width="268.9" height="9" rx="4.5" fill="#3178c6" opacity="0.95"/>
+<rect x="180" y="68" width="268.9" height="9" rx="4.5" fill="url(#lg sheen)" opacity="0"/>
+<rect x="180" y="68" width="268.9" height="9" rx="4.5" fill="url(#sheen)"/><g opacity="0.55"><rect x="180" y="68" width="268.9" height="9" rx="4.5" fill="none" stroke="#3178c6" stroke-opacity="0.5"/></g>
+<text x="774" y="77" font-size="12" font-weight="700" fill="#3178c6" text-anchor="start">46%</text>
 </g>
 <g class="fadeup" style="--i:0.08s">
 <circle cx="36" cy="107" r="4" fill="#3572A5"/>
 <text x="50" y="111" font-size="12.5" font-weight="600" fill="#e8f1fb">Python</text>
 <rect x="180" y="101" width="580" height="9" rx="4.5" fill="#131c2b"/>
-<rect x="180" y="101" width="99.6" height="9" rx="4.5" fill="#3572A5" opacity="0.95"/>
-<rect x="180" y="101" width="99.6" height="9" rx="4.5" fill="url(#lg sheen)" opacity="0"/>
-<rect x="180" y="101" width="99.6" height="9" rx="4.5" fill="url(#sheen)"/><g opacity="0.55"><rect x="180" y="101" width="99.6" height="9" rx="4.5" fill="none" stroke="#3572A5" stroke-opacity="0.5"/></g>
-<text x="774" y="110" font-size="12" font-weight="700" fill="#3572A5" text-anchor="start">17%</text>
+<rect x="180" y="101" width="111.6" height="9" rx="4.5" fill="#3572A5" opacity="0.95"/>
+<rect x="180" y="101" width="111.6" height="9" rx="4.5" fill="url(#lg sheen)" opacity="0"/>
+<rect x="180" y="101" width="111.6" height="9" rx="4.5" fill="url(#sheen)"/><g opacity="0.55"><rect x="180" y="101" width="111.6" height="9" rx="4.5" fill="none" stroke="#3572A5" stroke-opacity="0.5"/></g>
+<text x="774" y="110" font-size="12" font-weight="700" fill="#3572A5" text-anchor="start">19%</text>
 </g>
 <g class="fadeup" style="--i:0.16s">
 <circle cx="36" cy="140" r="4" fill="#7c3aed"/>
 <text x="50" y="144" font-size="12.5" font-weight="600" fill="#e8f1fb">Lua</text>
 <rect x="180" y="134" width="580" height="9" rx="4.5" fill="#131c2b"/>
-<rect x="180" y="134" width="89.2" height="9" rx="4.5" fill="#7c3aed" opacity="0.95"/>
-<rect x="180" y="134" width="89.2" height="9" rx="4.5" fill="url(#lg sheen)" opacity="0"/>
-<rect x="180" y="134" width="89.2" height="9" rx="4.5" fill="url(#sheen)"/><g opacity="0.55"><rect x="180" y="134" width="89.2" height="9" rx="4.5" fill="none" stroke="#7c3aed" stroke-opacity="0.5"/></g>
+<rect x="180" y="134" width="87.0" height="9" rx="4.5" fill="#7c3aed" opacity="0.95"/>
+<rect x="180" y="134" width="87.0" height="9" rx="4.5" fill="url(#lg sheen)" opacity="0"/>
+<rect x="180" y="134" width="87.0" height="9" rx="4.5" fill="url(#sheen)"/><g opacity="0.55"><rect x="180" y="134" width="87.0" height="9" rx="4.5" fill="none" stroke="#7c3aed" stroke-opacity="0.5"/></g>
 <text x="774" y="143" font-size="12" font-weight="700" fill="#7c3aed" text-anchor="start">15%</text>
 </g>
 <g class="fadeup" style="--i:0.24s">
 <circle cx="36" cy="173" r="4" fill="#f1e05a"/>
 <text x="50" y="177" font-size="12.5" font-weight="600" fill="#e8f1fb">JavaScript</text>
 <rect x="180" y="167" width="580" height="9" rx="4.5" fill="#131c2b"/>
-<rect x="180" y="167" width="41.4" height="9" rx="4.5" fill="#f1e05a" opacity="0.95"/>
-<rect x="180" y="167" width="41.4" height="9" rx="4.5" fill="url(#lg sheen)" opacity="0"/>
-<rect x="180" y="167" width="41.4" height="9" rx="4.5" fill="url(#sheen)"/><g opacity="0.55"><rect x="180" y="167" width="41.4" height="9" rx="4.5" fill="none" stroke="#f1e05a" stroke-opacity="0.5"/></g>
+<rect x="180" y="167" width="40.4" height="9" rx="4.5" fill="#f1e05a" opacity="0.95"/>
+<rect x="180" y="167" width="40.4" height="9" rx="4.5" fill="url(#lg sheen)" opacity="0"/>
+<rect x="180" y="167" width="40.4" height="9" rx="4.5" fill="url(#sheen)"/><g opacity="0.55"><rect x="180" y="167" width="40.4" height="9" rx="4.5" fill="none" stroke="#f1e05a" stroke-opacity="0.5"/></g>
 <text x="774" y="176" font-size="12" font-weight="700" fill="#f1e05a" text-anchor="start">7%</text>
 </g>
 <g class="fadeup" style="--i:0.32s">
 <circle cx="36" cy="206" r="4" fill="#555555"/>
 <text x="50" y="210" font-size="12.5" font-weight="600" fill="#e8f1fb">C</text>
 <rect x="180" y="200" width="580" height="9" rx="4.5" fill="#131c2b"/>
-<rect x="180" y="200" width="29.0" height="9" rx="4.5" fill="#555555" opacity="0.95"/>
-<rect x="180" y="200" width="29.0" height="9" rx="4.5" fill="url(#lg sheen)" opacity="0"/>
-<rect x="180" y="200" width="29.0" height="9" rx="4.5" fill="url(#sheen)"/><g opacity="0.55"><rect x="180" y="200" width="29.0" height="9" rx="4.5" fill="none" stroke="#555555" stroke-opacity="0.5"/></g>
+<rect x="180" y="200" width="28.3" height="9" rx="4.5" fill="#555555" opacity="0.95"/>
+<rect x="180" y="200" width="28.3" height="9" rx="4.5" fill="url(#lg sheen)" opacity="0"/>
+<rect x="180" y="200" width="28.3" height="9" rx="4.5" fill="url(#sheen)"/><g opacity="0.55"><rect x="180" y="200" width="28.3" height="9" rx="4.5" fill="none" stroke="#555555" stroke-opacity="0.5"/></g>
 <text x="774" y="209" font-size="12" font-weight="700" fill="#555555" text-anchor="start">5%</text>
 </g>
 <text x="30" y="247" font-size="10" fill="#6b829e">+ Less 3%  ·  HTML 2%  ·  CSS 2%</text>
