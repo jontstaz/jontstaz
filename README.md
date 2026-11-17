@@ -1,44 +1,65 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=jontstaz&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+<div align="center">
 
-# 💫 About Me:
-I'm passionate about Cryptocurrency, Decentralised Finance and Deep Learning.
+<img src="https://www.gitskins.com/api/section/hero?username=jontstaz&theme=neon&style=aura" alt="Jontstaz — live GitHub profile" width="100%" />
 
-# 💻 Tech Stack:
-### **Languages**
-![My Languages](https://skillicons.dev/icons?i=python,javascript,php,bash,powershell&theme=dark)
-### **Frameworks**
-![My Frameworks](https://skillicons.dev/icons?i=django,flask,laravel,nodejs,vue,bootstrap&theme=dark)
-### **Platforms**
-![My Platforms](https://skillicons.dev/icons?i=aws,gcp,docker,heroku,raspberrypi,linux&theme=dark)
-### **Databases & etc.**
-![My Platforms](https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb,nginx,prisma,figma,githubactions,grafana,ps,tensorflow,wordpress&theme=dark)
+</div>
 
-## ⌛ Development Metrics
-<!--START_SECTION:waka-->
+<div align="center">
 
-```txt
-Total Time: 812 hrs 2 mins
+[![GitHub](https://img.shields.io/badge/GitHub-jontstaz-0b0f14?style=flat-square&logo=github&logoColor=38bdf8)](https://github.com/jontstaz)
+[![Website](https://img.shields.io/badge/Website-jonte.au-0b0f14?style=flat-square&logo=googlechrome&logoColor=38bdf8)](https://jonte.au)
+[![X](https://img.shields.io/badge/X-@Jonte__z-0b0f14?style=flat-square&logo=x&logoColor=38bdf8)](https://x.com/Jonte_z)
 
-Python                     278 hrs 14 mins >>>>>>>>>----------------   34.26 %
-TypeScript                 157 hrs 33 mins >>>>>--------------------   19.40 %
-JavaScript                 104 hrs 33 mins >>>----------------------   12.88 %
-Bash                       35 hrs 42 mins  >------------------------   04.40 %
-JSON                       28 hrs 56 mins  >------------------------   03.56 %
-```
-
-<!--END_SECTION:waka-->
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=jontstaz&theme=dark&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api?username=jontstaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jontstaz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## LeetCode
-[![Leetcode Stats](https://leetcard.jacoblin.cool/jontstaz?theme=nord&extension=activity)](https://leetcode.com/jontstaz)
-
-## DevCard
-<a href="https://app.daily.dev/jontstaz"><img src="https://github.com/jontstaz/jontstaz/blob/main/devcard.svg" width="400" alt="Jonte's Dev Card"/></a>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jontstaz&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## <sub>01 / PILOT</sub>
+
+I'm a software engineer and builder focused on **AI-powered developer tools, automation, infrastructure, and self-hosted systems**.
+
+I enjoy taking ideas from prototype to production — building full-stack applications, agentic workflows, APIs, integrations, and the infrastructure behind them.
+
+<sub>NOW EXPLORING · Agentic development / Local AI / Developer experience / Automation</sub>
+
+## <sub>02 / MISSIONS · FEATURED BUILDS</sub>
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/section/projects?username=jontstaz&theme=neon&style=aura" alt="Featured repositories — live GitHub project data" width="100%" />
+
+</div>
+
+## <sub>03 / POWER-UPS · LANGUAGE MIX</sub>
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/section/stack?username=jontstaz&theme=neon&style=aura" alt="Programming language breakdown from public repositories" width="100%" />
+
+</div>
+
+## <sub>04 / FLIGHT LOG · CONTRIBUTION ACTIVITY</sub>
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/section/heatmap?username=jontstaz&theme=neon&style=jet" alt="GitHub contribution heatmap" width="100%" />
+
+</div>
+
+## <sub>05 / TELEMETRY · GITHUB STATS</sub>
+
+<div align="center">
+
+<img src="https://www.gitskins.com/api/section/stats?username=jontstaz&theme=neon&style=aura" alt="Live GitHub statistics" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+**[GitHub](https://github.com/jontstaz) · [Website](https://jonte.au) · [X](https://x.com/Jonte_z)**
+
+<sub>SIGNAL RUN · Live profile visuals by <a href="https://www.gitskins.com">GitSkins</a></sub>
+
+</div>
