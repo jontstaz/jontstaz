@@ -294,10 +294,6 @@ def build_hero(data, stats):
     p.append(f'<rect width="{W}" height="{H}" rx="14" fill="url(#dots)" opacity="0.5"/>')
     p.append(f'<rect width="{W}" height="{H}" rx="14" fill="url(#gl)"/>')
 
-    # ---------------- flight path behind grid
-    p.append(f'<path d="M -30 190 C 150 165, 420 205, 585 182 C 660 172, 730 168, 870 176" '
-             f'fill="none" stroke="{CYAN}" stroke-width="1" stroke-dasharray="2 7" opacity="0.5"/>')
-
     # ---------------- header
     p.append(card_open(W - 3, H - 3, 1.5, 1.5, "SIGNAL RUN", "@jontstaz", right=f"HI-SCORE {stats['cal_total']:,}")[0])
 
@@ -338,24 +334,6 @@ def build_hero(data, stats):
             p.append(f'<g class="d" style="--i:{0.03*ci:.2f}s"><rect x="{x:.1f}" y="{y:.1f}" width="{cell}" height="{cell}" '
                      f'rx="2.5" fill="{fill}" opacity="{op}">{anim}</rect></g>')
 
-    # ---------------- ship + trail (flies through the grid, weaving over busy cells)
-    ship = """<g transform="rotate(-10)">
-      <path d="M8 0 C9.5 0 10.5 1.6 10.5 3.4 L10.5 8.5 L8.6 10.6 L8.6 13.2 L6.4 13.2 L6.4 10.6 L4.6 10.6 L4.6 13.2 L2.4 13.2 L2.4 10.6 L0.5 8.5 L0.5 3.4 C0.5 1.6 1.6 0 3 0 Z" fill="#dbeafe"/>
-      <circle cx="5.5" cy="4.6" r="1.9" fill="{CY}"/>
-      <rect x="2.9" y="8.5" width="5.2" height="1.6" fill="#93c5fd" opacity="0.9"/>
-      <rect x="4.9" y="13.2" width="1.3" height="{F1}" fill="#67e8f9" opacity="0.85">
-        <animate attributeName="height" values="{F1};{F2};{F1}" dur="0.35s" repeatCount="indefinite"/>
-      </rect>
-      <rect x="4.9" y="{F1Y}" width="1.3" height="{F2}" fill="#22d3ee" opacity="0.5">
-        <animate attributeName="height" values="{F2};{F1};{F2}" dur="0.35s" repeatCount="indefinite"/>
-      </rect>
-    </g>"""
-    ship = (ship.replace("{CY}", CYAN).replace("{F1}", "4").replace("{F2}", "7").replace("{F1Y}", "13.2"))
-    p.append(f'<g class="fadeup" style="--i:1.6s"><g transform="translate(318,96) rotate(-10)">{ship}</g></g>')
-    # trail dashes behind the ship along its flight line
-    p.append(f'<g class="fadeup" style="--i:1.7s"><path d="M 92 128 L 308 98" stroke="{CYAN}" stroke-width="2" '
-             f'stroke-dasharray="1 8" stroke-linecap="round" opacity="0.75">'
-             f'<animate attributeName="stroke-dashoffset" values="0;-18" dur="0.9s" repeatCount="indefinite"/></path></g>')
 
     # ---------------- month labels
     mon_names = {1: "JAN", 2: "FEB", 3: "MAR", 4: "APR", 5: "MAY", 6: "JUN",
@@ -396,7 +374,7 @@ def build_hero(data, stats):
         cx += w + 10
 
     # ---------------- sparkline right side? kept clean. footer
-    p.append(f'<text x="24" y="{H-18}" font-size="10" fill="{FADE}">the ship flies my real contribution grid and eats every busy day</text>')
+    p.append(f'<text x="24" y="{H-18}" font-size="10" fill="{FADE}">every lit cell is a real commit day · the busier the day, the brighter it burns</text>')
     p.append(f'<text x="{W-24}" y="{H-18}" text-anchor="end" font-size="10" fill="{FADE2}">· {stats["active_days"]} active days · {stats["max_day"]} peak ·</text>')
     p.append("</svg>")
     return "\n".join(p)
