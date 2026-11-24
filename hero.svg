@@ -391,6 +391,7 @@
 <g class="d" style="--i:1.53s"><rect x="783.9" y="141.4" width="11.5" height="11.5" rx="2.5" fill="#14532d" opacity="1"></rect></g>
 <g class="d" style="--i:1.56s"><rect x="798.8" y="52.0" width="11.5" height="11.5" rx="2.5" fill="#14532d" opacity="1"></rect></g>
 <g class="d" style="--i:1.56s"><rect x="798.8" y="66.9" width="11.5" height="11.5" rx="2.5" fill="#14532d" opacity="1"></rect></g>
+<g class="d" style="--i:1.56s"><rect x="798.8" y="81.8" width="11.5" height="11.5" rx="2.5" fill="#131c2b" opacity="0.9"></rect></g>
 <text x="54" y="44" font-size="9" fill="#6b829e" letter-spacing="1">DEC</text>
 <text x="113" y="44" font-size="9" fill="#6b829e" letter-spacing="1">JAN</text>
 <text x="173" y="44" font-size="9" fill="#6b829e" letter-spacing="1">FEB</text>
@@ -409,25 +410,25 @@
 <g class="fadeup" style="--i:1.26s"><rect x="505.2" y="232" width="150.4" height="54" rx="9" fill="#0d1420" stroke="#1c2b3f"/><rect x="505.2" y="232" width="150.4" height="54" rx="9" fill="none" stroke="#fbbf24" stroke-opacity="0.16"/><text x="519.2" y="253" font-size="9" letter-spacing="1.6" fill="#6b829e">STARS</text><text x="519.2" y="275" font-size="19" font-weight="700" fill="#e8f1fb">217</text><rect x="505.2" y="283" width="150.4" height="3" rx="1.5" fill="#fbbf24" opacity="0.35"/></g>
 <g class="fadeup" style="--i:1.38s"><rect x="665.6" y="232" width="150.4" height="54" rx="9" fill="#0d1420" stroke="#1c2b3f"/><rect x="665.6" y="232" width="150.4" height="54" rx="9" fill="none" stroke="#c084fc" stroke-opacity="0.16"/><text x="679.6" y="253" font-size="9" letter-spacing="1.6" fill="#6b829e">FOLLOWERS</text><text x="679.6" y="275" font-size="19" font-weight="700" fill="#e8f1fb">147</text><rect x="665.6" y="283" width="150.4" height="3" rx="1.5" fill="#c084fc" opacity="0.35"/></g>
 <text x="24" y="302" font-size="9" letter-spacing="1.6" fill="#6b829e">POWER-UPS</text>
-<g class="fadeup" style="--i:5.50s"><g class="chip ch-typescript 46%" >
+<g class="fadeup" style="--i:5.60s"><g class="chip ch-typescript 46%" >
 <rect x="24" y="312" width="112" height="22" rx="11.0" fill="#3178c6" opacity="0.13"/>
 <rect x="24" y="312" width="112" height="22" rx="11.0" fill="none" stroke="#3178c6" stroke-width="1" opacity="0.8"/>
 <circle cx="36.5" cy="323.0" r="3" fill="#3178c6"/>
 <text x="45" y="326.8" font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="0.5" fill="#3178c6">TYPESCRIPT 46%</text>
 </g></g>
-<g class="fadeup" style="--i:5.60s"><g class="chip ch-python 19%" >
+<g class="fadeup" style="--i:5.70s"><g class="chip ch-python 19%" >
 <rect x="146.39999999999998" y="312" width="86" height="22" rx="11.0" fill="#3572A5" opacity="0.13"/>
 <rect x="146.39999999999998" y="312" width="86" height="22" rx="11.0" fill="none" stroke="#3572A5" stroke-width="1" opacity="0.8"/>
 <circle cx="158.89999999999998" cy="323.0" r="3" fill="#3572A5"/>
 <text x="167.39999999999998" y="326.8" font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="0.5" fill="#3572A5">PYTHON 19%</text>
 </g></g>
-<g class="fadeup" style="--i:5.70s"><g class="chip ch-lua 15%" >
+<g class="fadeup" style="--i:5.80s"><g class="chip ch-lua 15%" >
 <rect x="242.39999999999998" y="312" width="66" height="22" rx="11.0" fill="#7c3aed" opacity="0.13"/>
 <rect x="242.39999999999998" y="312" width="66" height="22" rx="11.0" fill="none" stroke="#7c3aed" stroke-width="1" opacity="0.8"/>
 <circle cx="254.89999999999998" cy="323.0" r="3" fill="#7c3aed"/>
 <text x="263.4" y="326.8" font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="0.5" fill="#7c3aed">LUA 15%</text>
 </g></g>
-<g class="fadeup" style="--i:5.80s"><g class="chip ch-javascript 7%" >
+<g class="fadeup" style="--i:5.90s"><g class="chip ch-javascript 7%" >
 <rect x="318.59999999999997" y="312" width="106" height="22" rx="11.0" fill="#f1e05a" opacity="0.13"/>
 <rect x="318.59999999999997" y="312" width="106" height="22" rx="11.0" fill="none" stroke="#f1e05a" stroke-width="1" opacity="0.8"/>
 <circle cx="331.09999999999997" cy="323.0" r="3" fill="#f1e05a"/>
