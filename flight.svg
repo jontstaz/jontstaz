@@ -41,7 +41,7 @@
 <line x1="30" y1="208" x2="500" y2="208" stroke="#1c2b3f" stroke-width="1"/>
 <text x="30" y="72" font-size="9" fill="#6b829e" letter-spacing="1">COMMITS / WEEK</text>
 <text x="500" y="72" text-anchor="end" font-size="9" fill="#6b829e">peak 85</text>
-<g class="fadeup" style="--i:0.15s"><text x="560" y="84" font-size="9" letter-spacing="1.5" fill="#6b829e">CURRENT RUN</text><text x="560" y="101" font-size="16" font-weight="700" fill="#4ade80">8 DAYS</text></g>
+<g class="fadeup" style="--i:0.15s"><text x="560" y="84" font-size="9" letter-spacing="1.5" fill="#6b829e">CURRENT RUN</text><text x="560" y="101" font-size="16" font-weight="700" fill="#4ade80">0 DAYS</text></g>
 <g class="fadeup" style="--i:0.25s"><text x="560" y="120" font-size="9" letter-spacing="1.5" fill="#6b829e">BEST RUN</text><text x="560" y="137" font-size="16" font-weight="700" fill="#86efac">8 DAYS</text></g>
 <g class="fadeup" style="--i:0.35s"><text x="560" y="156" font-size="9" letter-spacing="1.5" fill="#6b829e">ACTIVE DAYS</text><text x="560" y="173" font-size="16" font-weight="700" fill="#22d3ee">132</text></g>
 <g class="fadeup" style="--i:0.45s"><text x="560" y="192" font-size="9" letter-spacing="1.5" fill="#6b829e">PEAK DAY</text><text x="560" y="209" font-size="16" font-weight="700" fill="#fbbf24">110</text></g>
