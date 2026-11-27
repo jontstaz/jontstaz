@@ -24,7 +24,7 @@
 <rect x="23.5" y="25.0" width="3.5" height="13" fill="#22d3ee" opacity="0.85"/>
 <text x="32.5" y="31.5" font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="11.5" font-weight="700" letter-spacing="2.2" fill="#22d3ee">SIGNAL RUN</text>
 <text x="130.0" y="31.5" font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="10.5" letter-spacing="1.5" fill="#6b829e">@JONTSTAZ</text>
-<text x="818.5" y="31.5" text-anchor="end" font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="10.5" letter-spacing="1.8" fill="#6b829e">HI-SCORE 1,251</text>
+<text x="818.5" y="31.5" text-anchor="end" font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="10.5" letter-spacing="1.8" fill="#6b829e">HI-SCORE 1,281</text>
 <g class="d" style="--i:0.00s"><rect x="24.0" y="52.0" width="11.5" height="11.5" rx="2.5" fill="#131c2b" opacity="0.9"></rect></g>
 <g class="d" style="--i:0.00s"><rect x="24.0" y="66.9" width="11.5" height="11.5" rx="2.5" fill="#14532d" opacity="1"></rect></g>
 <g class="d" style="--i:0.00s"><rect x="24.0" y="81.8" width="11.5" height="11.5" rx="2.5" fill="#131c2b" opacity="0.9"></rect></g>
@@ -394,6 +394,7 @@
 <g class="d" style="--i:1.56s"><rect x="798.8" y="81.8" width="11.5" height="11.5" rx="2.5" fill="#14532d" opacity="1"></rect></g>
 <g class="d" style="--i:1.56s"><rect x="798.8" y="96.7" width="11.5" height="11.5" rx="2.5" fill="#131c2b" opacity="0.9"></rect></g>
 <g class="d" style="--i:1.56s"><rect x="798.8" y="111.6" width="11.5" height="11.5" rx="2.5" fill="#14532d" opacity="1"></rect></g>
+<g class="d" style="--i:1.56s"><rect x="798.8" y="126.5" width="11.5" height="11.5" rx="2.5" fill="#166534" opacity="1"></rect></g>
 <text x="54" y="44" font-size="9" fill="#6b829e" letter-spacing="1">DEC</text>
 <text x="113" y="44" font-size="9" fill="#6b829e" letter-spacing="1">JAN</text>
 <text x="173" y="44" font-size="9" fill="#6b829e" letter-spacing="1">FEB</text>
@@ -407,35 +408,35 @@
 <text x="694" y="44" font-size="9" fill="#6b829e" letter-spacing="1">OCT</text>
 <text x="754" y="44" font-size="9" fill="#6b829e" letter-spacing="1">NOV</text>
 <g class="fadeup" style="--i:0.90s"><rect x="24.0" y="232" width="150.4" height="54" rx="9" fill="#0d1420" stroke="#1c2b3f"/><rect x="24.0" y="232" width="150.4" height="54" rx="9" fill="none" stroke="#22d3ee" stroke-opacity="0.16"/><text x="38.0" y="253" font-size="9" letter-spacing="1.6" fill="#6b829e">LEVEL</text><text x="38.0" y="275" font-size="19" font-weight="700" fill="#e8f1fb">2026</text><rect x="24.0" y="283" width="150.4" height="3" rx="1.5" fill="#22d3ee" opacity="0.35"/></g>
-<g class="fadeup" style="--i:1.02s"><rect x="184.4" y="232" width="150.4" height="54" rx="9" fill="#0d1420" stroke="#1c2b3f"/><rect x="184.4" y="232" width="150.4" height="54" rx="9" fill="none" stroke="#4ade80" stroke-opacity="0.16"/><text x="198.4" y="253" font-size="9" letter-spacing="1.6" fill="#6b829e">STREAK</text><text x="198.4" y="275" font-size="19" font-weight="700" fill="#e8f1fb">1 DAY</text><rect x="184.4" y="283" width="150.4" height="3" rx="1.5" fill="#4ade80" opacity="0.35"/></g>
+<g class="fadeup" style="--i:1.02s"><rect x="184.4" y="232" width="150.4" height="54" rx="9" fill="#0d1420" stroke="#1c2b3f"/><rect x="184.4" y="232" width="150.4" height="54" rx="9" fill="none" stroke="#4ade80" stroke-opacity="0.16"/><text x="198.4" y="253" font-size="9" letter-spacing="1.6" fill="#6b829e">STREAK</text><text x="198.4" y="275" font-size="19" font-weight="700" fill="#e8f1fb">2 DAY</text><rect x="184.4" y="283" width="150.4" height="3" rx="1.5" fill="#4ade80" opacity="0.35"/></g>
 <g class="fadeup" style="--i:1.14s"><rect x="344.8" y="232" width="150.4" height="54" rx="9" fill="#0d1420" stroke="#1c2b3f"/><rect x="344.8" y="232" width="150.4" height="54" rx="9" fill="none" stroke="#86efac" stroke-opacity="0.16"/><text x="358.8" y="253" font-size="9" letter-spacing="1.6" fill="#6b829e">BEST RUN</text><text x="358.8" y="275" font-size="19" font-weight="700" fill="#e8f1fb">9 DAYS</text><rect x="344.8" y="283" width="150.4" height="3" rx="1.5" fill="#86efac" opacity="0.35"/></g>
-<g class="fadeup" style="--i:1.26s"><rect x="505.2" y="232" width="150.4" height="54" rx="9" fill="#0d1420" stroke="#1c2b3f"/><rect x="505.2" y="232" width="150.4" height="54" rx="9" fill="none" stroke="#fbbf24" stroke-opacity="0.16"/><text x="519.2" y="253" font-size="9" letter-spacing="1.6" fill="#6b829e">STARS</text><text x="519.2" y="275" font-size="19" font-weight="700" fill="#e8f1fb">217</text><rect x="505.2" y="283" width="150.4" height="3" rx="1.5" fill="#fbbf24" opacity="0.35"/></g>
+<g class="fadeup" style="--i:1.26s"><rect x="505.2" y="232" width="150.4" height="54" rx="9" fill="#0d1420" stroke="#1c2b3f"/><rect x="505.2" y="232" width="150.4" height="54" rx="9" fill="none" stroke="#fbbf24" stroke-opacity="0.16"/><text x="519.2" y="253" font-size="9" letter-spacing="1.6" fill="#6b829e">STARS</text><text x="519.2" y="275" font-size="19" font-weight="700" fill="#e8f1fb">218</text><rect x="505.2" y="283" width="150.4" height="3" rx="1.5" fill="#fbbf24" opacity="0.35"/></g>
 <g class="fadeup" style="--i:1.38s"><rect x="665.6" y="232" width="150.4" height="54" rx="9" fill="#0d1420" stroke="#1c2b3f"/><rect x="665.6" y="232" width="150.4" height="54" rx="9" fill="none" stroke="#c084fc" stroke-opacity="0.16"/><text x="679.6" y="253" font-size="9" letter-spacing="1.6" fill="#6b829e">FOLLOWERS</text><text x="679.6" y="275" font-size="19" font-weight="700" fill="#e8f1fb">147</text><rect x="665.6" y="283" width="150.4" height="3" rx="1.5" fill="#c084fc" opacity="0.35"/></g>
 <text x="24" y="302" font-size="9" letter-spacing="1.6" fill="#6b829e">POWER-UPS</text>
-<g class="fadeup" style="--i:5.80s"><g class="chip ch-typescript 46%" >
+<g class="fadeup" style="--i:5.90s"><g class="chip ch-typescript 32%" >
 <rect x="24" y="312" width="112" height="22" rx="11.0" fill="#3178c6" opacity="0.13"/>
 <rect x="24" y="312" width="112" height="22" rx="11.0" fill="none" stroke="#3178c6" stroke-width="1" opacity="0.8"/>
 <circle cx="36.5" cy="323.0" r="3" fill="#3178c6"/>
-<text x="45" y="326.8" font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="0.5" fill="#3178c6">TYPESCRIPT 46%</text>
+<text x="45" y="326.8" font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="0.5" fill="#3178c6">TYPESCRIPT 32%</text>
 </g></g>
-<g class="fadeup" style="--i:5.90s"><g class="chip ch-python 19%" >
-<rect x="146.39999999999998" y="312" width="86" height="22" rx="11.0" fill="#3572A5" opacity="0.13"/>
-<rect x="146.39999999999998" y="312" width="86" height="22" rx="11.0" fill="none" stroke="#3572A5" stroke-width="1" opacity="0.8"/>
-<circle cx="158.89999999999998" cy="323.0" r="3" fill="#3572A5"/>
-<text x="167.39999999999998" y="326.8" font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="0.5" fill="#3572A5">PYTHON 19%</text>
+<g class="fadeup" style="--i:6.00s"><g class="chip ch-kotlin 30%" >
+<rect x="146.39999999999998" y="312" width="86" height="22" rx="11.0" fill="#5b6b80" opacity="0.13"/>
+<rect x="146.39999999999998" y="312" width="86" height="22" rx="11.0" fill="none" stroke="#5b6b80" stroke-width="1" opacity="0.8"/>
+<circle cx="158.89999999999998" cy="323.0" r="3" fill="#5b6b80"/>
+<text x="167.39999999999998" y="326.8" font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="0.5" fill="#5b6b80">KOTLIN 30%</text>
 </g></g>
-<g class="fadeup" style="--i:6.00s"><g class="chip ch-lua 15%" >
-<rect x="242.39999999999998" y="312" width="66" height="22" rx="11.0" fill="#7c3aed" opacity="0.13"/>
-<rect x="242.39999999999998" y="312" width="66" height="22" rx="11.0" fill="none" stroke="#7c3aed" stroke-width="1" opacity="0.8"/>
-<circle cx="254.89999999999998" cy="323.0" r="3" fill="#7c3aed"/>
-<text x="263.4" y="326.8" font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="0.5" fill="#7c3aed">LUA 15%</text>
+<g class="fadeup" style="--i:6.10s"><g class="chip ch-python 13%" >
+<rect x="242.39999999999998" y="312" width="86" height="22" rx="11.0" fill="#3572A5" opacity="0.13"/>
+<rect x="242.39999999999998" y="312" width="86" height="22" rx="11.0" fill="none" stroke="#3572A5" stroke-width="1" opacity="0.8"/>
+<circle cx="254.89999999999998" cy="323.0" r="3" fill="#3572A5"/>
+<text x="263.4" y="326.8" font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="0.5" fill="#3572A5">PYTHON 13%</text>
 </g></g>
-<g class="fadeup" style="--i:6.10s"><g class="chip ch-javascript 7%" >
-<rect x="318.59999999999997" y="312" width="106" height="22" rx="11.0" fill="#f1e05a" opacity="0.13"/>
-<rect x="318.59999999999997" y="312" width="106" height="22" rx="11.0" fill="none" stroke="#f1e05a" stroke-width="1" opacity="0.8"/>
-<circle cx="331.09999999999997" cy="323.0" r="3" fill="#f1e05a"/>
-<text x="339.59999999999997" y="326.8" font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="0.5" fill="#f1e05a">JAVASCRIPT 7%</text>
+<g class="fadeup" style="--i:6.20s"><g class="chip ch-lua 10%" >
+<rect x="338.4" y="312" width="66" height="22" rx="11.0" fill="#7c3aed" opacity="0.13"/>
+<rect x="338.4" y="312" width="66" height="22" rx="11.0" fill="none" stroke="#7c3aed" stroke-width="1" opacity="0.8"/>
+<circle cx="350.9" cy="323.0" r="3" fill="#7c3aed"/>
+<text x="359.4" y="326.8" font-family="ui-monospace, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="0.5" fill="#7c3aed">LUA 10%</text>
 </g></g>
 <text x="24" y="382" font-size="10" fill="#6b829e">every lit cell is a real commit day · the busier the day, the brighter it burns</text>
-<text x="816" y="382" text-anchor="end" font-size="10" fill="#8ba3bd">· 134 active days · 110 peak ·</text>
+<text x="816" y="382" text-anchor="end" font-size="10" fill="#8ba3bd">· 135 active days · 110 peak ·</text>
 </svg>
